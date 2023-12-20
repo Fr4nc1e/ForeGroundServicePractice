@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
                                 }
                             }
                         }) {
-                            Text(text = "Start")
+                            Text(text = "Start.")
                         }
 
                         Button(onClick = {
@@ -67,7 +67,7 @@ class MainActivity : ComponentActivity() {
                                 }
                             }
                         }) {
-                            Text(text = "Stop")
+                            Text(text = "Stop.")
                         }
                     }
                 }
